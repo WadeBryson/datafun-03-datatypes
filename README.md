@@ -2,6 +2,10 @@
 
 > Practice with Python data types, filter(), map(), and list comprehensions
 
+> Name: Wade Bryson
+> Date: 5/23/2023
+> Domain: Basketball
+
 
 ## Get Started
 
