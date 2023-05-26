@@ -1,5 +1,10 @@
 """
 Author: Wade Bryson
+
+Purpose: Demonstrate knowledge of string files and functions
+
+Domain: Basketball
+
 """
 
 # imports first
