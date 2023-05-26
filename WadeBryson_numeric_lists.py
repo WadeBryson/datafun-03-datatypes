@@ -3,6 +3,7 @@ Author: Wade Bryson
 
 Purpose: Analyze a basketball team's point differentials for a full season.
 
+Domain: Basketball
 """
 
 # import some standard modules first - how many can you make use of?
