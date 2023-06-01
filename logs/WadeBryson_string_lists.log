@@ -1,0 +1,40 @@
+2023-05-26 09:43:07,459 =============================================================
+2023-05-26 09:43:07,459 =============================================================
+2023-05-26 09:43:07,459 Today is 2023-05-26 at 09:43 AM
+2023-05-26 09:43:07,562 This file is running on: nt Windows 10
+2023-05-26 09:43:07,562 The Python version is: 3.11.3
+2023-05-26 09:43:07,563 The active conda environment is:  None
+2023-05-26 09:43:07,563 The active pip environment is:    None
+2023-05-26 09:43:07,563 The active environment path is:   C:\Users\WadeBryson\AppData\Local\Programs\Python\Python311
+2023-05-26 09:43:07,563 The current working directory is: C:\Users\WadeBryson\Documents\datafun-03-datatypes
+2023-05-26 09:43:07,563 This source file is in:           c:\Users\WadeBryson\Documents\datafun-03-datatypes
+2023-05-26 09:43:07,563 =============================================================
+2023-05-26 09:43:07,563 =============================================================
+2023-05-26 09:43:07,563 Here is your list of opponents you played this year: ['Miami', 'Boston', 'Los Angeles', 'New York', 'Cleveland', 'Miami', 'Chicago', 'Boston'].
+2023-05-26 09:43:07,563 Here is your list of unique opponents you played this year: {'Cleveland', 'New York', 'Los Angeles', 'Boston', 'Chicago', 'Miami'}.
+2023-05-26 09:43:07,563 Here is your list of unique opponents mascots you played this year: ['Heat', 'Celtics', 'Lakers', 'Knicks', 'Cavaliers', 'Bulls'].
+2023-05-26 09:43:07,563 Here is your list of opponents and their mascots combined together: [('Cleveland', 'Heat'), ('New York', 'Celtics'), ('Los Angeles', 'Lakers'), ('Boston', 'Knicks'), ('Chicago', 'Cavaliers'), ('Miami', 'Bulls')]
+2023-05-26 09:43:07,564 Oops I made a mistake! Let me correct that!
+2023-05-26 09:43:07,564 Does this look better?
+2023-05-26 09:43:07,564 Here is the correct list of opponents and their mascots combined together: [('Miami', 'Heat'), ('Boston', 'Celtics'), ('Los Angeles', 'Lakers'), ('New York', 'Knicks'), ('Cleveland', 'Cavaliers'), ('Chicago', 'Bulls')]
+2023-05-26 09:43:07,564 Random sentence: Hayden nailed a slam dunk at the buzzer to defeat the ('New York', 'Knicks')!!!!
+2023-05-26 09:43:07,564 Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+2023-05-26 09:43:07,565 Here is a list of the 90 unique words in the Zen of Python file: ['*right*', '--', '--obvious', 'Although', 'Beautiful', 'Complex', 'Dutch.', 'Errors', 'Explicit', 'Flat', 'If', 'In', 'Namespaces', 'Now', 'Readability', 'Simple', 'Sparse', 'Special', 'There', 'Unless', 'a', 'ambiguity,', 'and', 'are', "aren't", 'at', 'bad', 'be', 'beats', 'better', 'break', 'cases', 'complex.', 'complicated.', 'counts.', 'dense.', 'do', 'easy', 'enough', 'explain,', 'explicitly', 'face', 'first', 'good', 'great', 'guess.', 'hard', 'honking', 'idea', 'idea.', 'implementation', 'implicit.', 'is', 'it', "it's", 'it.', "let's", 'may', 'more', 'nested.', 'never', 'never.', 'not', 'now.', 'obvious', 'of', 'often', 'one', 'one--', 'only', 'pass', 'practicality', 'preferably', 'purity.', 'refuse', 'rules.', 'should', 'silenced.', 'silently.', 'special', 'temptation', 'than', 'that', 'the', 'those!', 'to', 'ugly.', 'unless', 'way', "you're"]

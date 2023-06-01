@@ -1,0 +1,24 @@
+2023-05-31 19:42:23,218 =============================================================
+2023-05-31 19:42:23,218 =============================================================
+2023-05-31 19:42:23,218 Today is 2023-05-31 at 07:42 PM
+2023-05-31 19:42:23,333 This file is running on: nt Windows 10
+2023-05-31 19:42:23,333 The Python version is: 3.11.3
+2023-05-31 19:42:23,334 The active conda environment is:  None
+2023-05-31 19:42:23,334 The active pip environment is:    None
+2023-05-31 19:42:23,334 The active environment path is:   C:\Users\WadeBryson\AppData\Local\Programs\Python\Python311
+2023-05-31 19:42:23,344 The current working directory is: C:\Users\WadeBryson\Documents\datafun-03-datatypes
+2023-05-31 19:42:23,344 This source file is in:           c:\Users\WadeBryson\Documents\datafun-03-datatypes
+2023-05-31 19:42:23,344 =============================================================
+2023-05-31 19:42:23,344 =============================================================
+2023-05-31 19:42:23,345 Calling functions from main block
+2023-05-31 19:42:23,345 Calling process_text_woodchuck()
+2023-05-31 19:42:23,345 The list of words is: ['How', 'much', 'wood', 'would', 'a', 'woodchuck', 'chuck', 'if', 'a', 'woodchuck', 'could', 'chuck', 'wood?', 'He', 'would', 'chuck,', 'he', 'would,', 'as', 'much', 'as', 'he', 'could,', 'and', 'chuck', 'as', 'much', 'wood', 'as', 'a', 'woodchuck', 'would', 'if', 'a', 'woodchuck', 'could', 'chuck', 'wood.']
+2023-05-31 19:42:23,345 There are 38 words in the file.
+2023-05-31 19:42:23,345 The set of unique words is: {'if', 'and', 'chuck', 'would', 'much', 'He', 'woodchuck', 'could', 'wood?', 'he', 'a', 'as', 'wood', 'wood.', 'would,', 'could,', 'chuck,', 'How'}
+2023-05-31 19:42:23,345 There are 18 unique words in the file.
+2023-05-31 19:42:23,346 Calling create_random_sentence()
+2023-05-31 19:42:23,346 Random sentence: The confused bird jumps scaredly.
+2023-05-31 19:42:23,346 Calling create_random_sentence()
+2023-05-31 19:42:23,346 Random sentence: The angry dog crawls slowly.
+2023-05-31 19:42:23,346 Calling play_game()
+2023-05-31 19:42:23,346 ready_for_continous_game = True

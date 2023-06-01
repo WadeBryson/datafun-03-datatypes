@@ -1,0 +1,15 @@
+2023-05-23 15:12:15,359 =============================================================
+2023-05-23 15:12:15,359 =============================================================
+2023-05-23 15:12:15,359 Today is 2023-05-23 at 03:12 PM
+2023-05-23 15:12:16,124 This file is running on: nt Windows 10
+2023-05-23 15:12:16,124 The Python version is: 3.11.3
+2023-05-23 15:12:16,124 The active conda environment is:  None
+2023-05-23 15:12:16,124 The active pip environment is:    None
+2023-05-23 15:12:16,124 The active environment path is:   C:\Users\WadeBryson\AppData\Local\Programs\Python\Python311
+2023-05-23 15:12:16,124 The current working directory is: C:\Users\WadeBryson\Documents\datafun-03-datatypes
+2023-05-23 15:12:16,124 This source file is in:           c:\Users\WadeBryson\Documents\datafun-03-datatypes
+2023-05-23 15:12:16,189 =============================================================
+2023-05-23 15:12:16,189 =============================================================
+2023-05-23 15:12:16,189 Starting util_datafun_logger.py
+2023-05-23 15:12:16,189 Information is logged to: logs/logs\logger.log
+2023-05-23 15:12:16,189 Ending util_datafun_logger.py

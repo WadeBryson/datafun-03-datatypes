@@ -1,0 +1,67 @@
+2023-05-26 10:14:44,873 =============================================================
+2023-05-26 10:14:44,873 =============================================================
+2023-05-26 10:14:44,873 Today is 2023-05-26 at 10:14 AM
+2023-05-26 10:14:45,014 This file is running on: nt Windows 10
+2023-05-26 10:14:45,014 The Python version is: 3.11.3
+2023-05-26 10:14:45,014 The active conda environment is:  None
+2023-05-26 10:14:45,014 The active pip environment is:    None
+2023-05-26 10:14:45,014 The active environment path is:   C:\Users\WadeBryson\AppData\Local\Programs\Python\Python311
+2023-05-26 10:14:45,014 The current working directory is: C:\Users\WadeBryson\Documents\datafun-03-datatypes
+2023-05-26 10:14:45,014 This source file is in:           c:\Users\WadeBryson\Documents\datafun-03-datatypes
+2023-05-26 10:14:45,014 =============================================================
+2023-05-26 10:14:45,014 =============================================================
+2023-05-26 10:14:45,014 Your list of point differentials = [4, 8, -12, 20, 12, 3, -5, -7, 21, -5, -23, 32, 27, 10, 5, 4, 7, 8, -10, 17]
+2023-05-26 10:14:45,014 Below is your data about your 10 Day Free Throw Challenge.
+2023-05-26 10:14:45,014 Days:[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+2023-05-26 10:14:45,014 Total Free Throws Made:[100, 200, 295, 405, 500, 620, 680, 800, 910, 1050]
+2023-05-26 10:14:45,034 Let's look at some basic statistics regarding your point differentials list!
+2023-05-26 10:14:45,038 mean   = 5.80
+2023-05-26 10:14:45,038 median = 6.00
+2023-05-26 10:14:45,038 mode   = 4.00
+2023-05-26 10:14:45,038 var    = 187.85
+2023-05-26 10:14:45,038 stdev  = 13.71
+2023-05-26 10:14:45,038 Let's explore the relationship created from your 10 Day Free Throw Challenge
+2023-05-26 10:14:45,038 The correlation between your Days and Total Free Throws Made = 1.00
+2023-05-26 10:14:45,038 The slope for your line of best fit = 102.97
+2023-05-26 10:14:45,038 The y-intercept for your line of best fit = -10.33
+2023-05-26 10:14:45,038 The equation for your line of best fit is y = 102.97x +-10.33
+2023-05-26 10:14:45,038 If you keep up the Free Throw Challenge for 5 more days I predict you will have made a total of 1534.00 free throws!
+2023-05-26 10:14:45,038 Your worst point differential was -23.
+2023-05-26 10:14:45,038 Your best point differential was 32.
+2023-05-26 10:14:45,038 You played a total of 20 games this season.
+2023-05-26 10:14:45,038 Your total point differential for the season was 116.
+2023-05-26 10:14:45,038 Your average point differential was 5.8.
+2023-05-26 10:14:45,038 In this new set I removed all the duplicated point differentials {32, 3, 4, 5, 7, 8, -23, 27, 10, 12, 17, 20, -12, 21, -10, -7, -5}.
+2023-05-26 10:14:45,038 Your list sorted from your worst point differentials to your best is [-23, -12, -10, -7, -5, -5, 3, 4, 4, 5, 7, 8, 8, 10, 12, 17, 20, 21, 27, 32].
+2023-05-26 10:14:45,038 Your list sorted from your best point differntials to your worst is [32, 27, 21, 20, 17, 12, 10, 8, 8, 7, 5, 4, 4, 3, -5, -5, -7, -10, -12, -23].
+2023-05-26 10:14:45,038 Your list of 3-pointers made = [2, 3, 5, 1, 9, 2, 7, 8, 4]
+2023-05-26 10:14:45,038 Your new list of 3-pointers made = [2, 3, 5, 1, 9, 2, 7, 8, 4, 6]
+2023-05-26 10:14:45,038 Your combined list of 3-pointers made = [2, 3, 5, 1, 9, 2, 7, 8, 4, 6, 3, 4, 8, 1, 7]
+2023-05-26 10:14:45,040 After your addition, your new list of 3-pointers made = [2, 9, 3, 5, 1, 9, 2, 7, 8, 4, 6, 3, 4, 8, 1, 7]
+2023-05-26 10:14:45,040 After removing the number 5, your new list of 3-pointers made = [2, 9, 3, 1, 9, 2, 7, 8, 4, 6, 3, 4, 8, 1, 7]
+2023-05-26 10:14:45,040 You made 2 threes 2 times this season
+2023-05-26 10:14:45,040 Here is your list sorted in numerical order = [1, 1, 2, 2, 3, 3, 4, 4, 6, 7, 7, 8, 8, 9, 9]
+2023-05-26 10:14:45,040 Here is your list sorted in descending numerical order = [9, 9, 8, 8, 7, 7, 6, 4, 4, 3, 3, 2, 2, 1, 1]
+2023-05-26 10:14:45,040 Here is a copy of your list of 3-pointers made = [9, 9, 8, 8, 7, 7, 6, 4, 4, 3, 3, 2, 2, 1, 1]
+2023-05-26 10:14:45,040 Here is your new list after removing the first and last values = [9, 8, 8, 7, 7, 6, 4, 4, 3, 3, 2, 2, 1]
+2023-05-26 10:14:45,040 The point differentials for the games you won are listed below
+2023-05-26 10:14:45,040 4
+2023-05-26 10:14:45,040 8
+2023-05-26 10:14:45,040 20
+2023-05-26 10:14:45,040 12
+2023-05-26 10:14:45,040 3
+2023-05-26 10:14:45,040 21
+2023-05-26 10:14:45,040 32
+2023-05-26 10:14:45,040 27
+2023-05-26 10:14:45,040 10
+2023-05-26 10:14:45,040 5
+2023-05-26 10:14:45,040 4
+2023-05-26 10:14:45,040 7
+2023-05-26 10:14:45,040 8
+2023-05-26 10:14:45,040 17
+2023-05-26 10:14:45,040 Here are the cube root values of your 3-pointers made list <map object at 0x0000016E62B90B50>
+2023-05-26 10:14:45,040 Here are the volumes of a cube given the side lenght in the list above <map object at 0x0000016E62B91810>
+2023-05-26 10:14:45,040 Here are the games you lost [-12, -5, -7, -5, -23, -10].
+2023-05-26 10:14:45,040 Here are your games lost point differentials if everything was tripled = [-36, -15, -21, -15, -69, -30]
+2023-05-26 10:14:45,040 Here are your games lost point differentials if you would have started with a 25 points head start = [13, 20, 18, 20, 2, 15]
+2023-05-26 10:14:45,040 You could have went UNDEFEATED if you would have received that head start........
