@@ -39,6 +39,7 @@ list_adjectives = ["happy", "sad", "angry", "scared", "confused", "bored"]
 # Define a list of adverbs
 list_adverbs = ["quickly", "slowly", "happily", "sadly", "angrily", "scaredly"]
 
+# Adding a random line to force a change in the save file and I hope the new commit sends the Log Folder
 
 def process_text_woodchuck():
     """Read in text_woodchuck.txt and process it"""
